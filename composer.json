@@ -1,0 +1,15 @@
+{
+    "name": "owner/my-custom-framework",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Narek",
+            "email": "vardapetyannarek0@gmail.com"
+        }
+    ],
+    "require": {}
+}
